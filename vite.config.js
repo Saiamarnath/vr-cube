@@ -1,4 +1,4 @@
 export default {
-    base: "/vr-cube/" // Change this to match your repo name
+    base: "Saiamarnath/vr-cube/" 
   };
   
